@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "呼び声",
+  "base_artist": "Vaundy",
+  "createdAt": "2025-12-24T11:56:35.212108Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "呼び声",
+      "artist": "Vaundy",
+      "has_synced": false,
+      "path": "select/pl_01_呼び声_Vaundy.txt"
+    }
+  ]
+}
